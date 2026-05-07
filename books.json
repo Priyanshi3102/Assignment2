@@ -1,0 +1,62 @@
+{
+    "A Game of Thrones": {
+        "pages": 694,
+        "date_of_release": "1996-08-01T00:00:00",
+        "ISBN": "978-0553103540",
+        "publisher": "Bantam Books"
+    },
+    "A Clash of Kings": {
+        "pages": 768,
+        "date_of_release": "1999-02-02T00:00:00",
+        "ISBN": "978-0553108033",
+        "publisher": "Bantam Books"
+    },
+    "A Storm of Swords": {
+        "pages": 992,
+        "date_of_release": "2000-10-31T00:00:00",
+        "ISBN": "978-0553106633",
+        "publisher": "Bantam Books"
+    },
+    "The Hedge Knight": {
+        "pages": 164,
+        "date_of_release": "2005-03-09T00:00:00",
+        "ISBN": "978-0976401100",
+        "publisher": "Dabel Brothers Publishing"
+    },
+    "A Feast for Crows": {
+        "pages": 784,
+        "date_of_release": "2005-11-08T00:00:00",
+        "ISBN": "978-0553801507",
+        "publisher": "Bantam Books"
+    },
+    "The Sworn Sword": {
+        "pages": 152,
+        "date_of_release": "2008-06-18T00:00:00",
+        "ISBN": "978-0785126508",
+        "publisher": "Marvel"
+    },
+    "The Mystery Knight": {
+        "pages": 416,
+        "date_of_release": "2011-03-29T00:00:00",
+        "ISBN": "978-0765360267",
+        "publisher": "Tor Fantasy"
+    },
+    "A Dance with Dragons": {
+        "pages": 1040,
+        "date_of_release": "2011-07-12T00:00:00",
+        "ISBN": "978-0553801477",
+        "publisher": "Bantam Books"
+    },
+    "The Princess and the Queen": {
+        "pages": 784,
+        "date_of_release": "2013-12-03T00:00:00",
+        "ISBN": "978-0765332066",
+        "publisher": "Tor Books"
+    },
+    "The Rogue Prince": {
+        "pages": 832,
+        "date_of_release": "2014-06-17T00:00:00",
+        "ISBN": "978-0345537263",
+        "publisher": "Bantam Books"
+    }
+}
